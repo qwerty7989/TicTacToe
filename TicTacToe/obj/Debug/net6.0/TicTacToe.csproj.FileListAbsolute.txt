@@ -23,3 +23,7 @@ E:\Ador\University\year-3-2\computer-game-programming\labs\week1-tictactoe\TicTa
 E:\Ador\University\year-3-2\computer-game-programming\labs\week1-tictactoe\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.pdb
 E:\Ador\University\year-3-2\computer-game-programming\labs\week1-tictactoe\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.genruntimeconfig.cache
 E:\Ador\University\year-3-2\computer-game-programming\labs\week1-tictactoe\TicTacToe\TicTacToe\obj\Debug\net6.0\ref\TicTacToe.dll
+E:\Ador\University\year-3-2\computer-game-programming\labs\week1-tictactoe\TicTacToe\TicTacToe\bin\Debug\net6.0\Content\Circle.xnb
+E:\Ador\University\year-3-2\computer-game-programming\labs\week1-tictactoe\TicTacToe\TicTacToe\bin\Debug\net6.0\Content\Cross.xnb
+E:\Ador\University\year-3-2\computer-game-programming\labs\week1-tictactoe\TicTacToe\TicTacToe\bin\Debug\net6.0\Content\Line.xnb
+E:\Ador\University\year-3-2\computer-game-programming\labs\week1-tictactoe\TicTacToe\TicTacToe\bin\Debug\net6.0\Content\Fonts\Terminal.xnb

@@ -1,3 +1,3 @@
 ﻿
-using var game = new TicTacToe.Game1();
+using var game = new TicTacToe.TicTacToe();
 game.Run();
