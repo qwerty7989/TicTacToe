@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nH/YWqtEqJST+P5hEYl2Aob4zfS5mE7Shhprc0Iba1Dbo5djot6lPAlRJaReCfxnSPSNg1R33DiO3kzpAaAa0A==",
+  "success": true,
+  "projectFilePath": "E:\\Ador\\University\\year-3-2\\computer-game-programming\\labs\\week1-tictactoe\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koony\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\koony\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
